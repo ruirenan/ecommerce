@@ -1,0 +1,35 @@
+
+Atividade 01: 
+
+ 
+
+Desenvolver um cadastro de produto com os campos: 
+- SKU (identificador)
+- Nome Produto
+- Descrição => textarea
+- Preço de Venda => formatação/validação
+- Quantidade disponível
+- Imagem ( URL )
+
+ 
+
+Atividade 02: 
+- Listar os produtos com: SKU + Nome + Preço - junto a opção "Visualizar detalhes"
+- Botão para editar produto
+
+ 
+
+Atividade 03: 
+- Ao clicar em visualizar detalhes exibir a página de detalhe de produtos com opção de voltar (history back)
+
+ 
+
+Atividade 04: 
+- Repetir os passos 02 e 03 só que agora realizando o consumo via API - nesse ponto vou precisar que você desenvolva o backend de consumo da API se for possível. 
+
+[] - colocar as rotas (react-router-dom)
+[] - rota para Cadastro e Listagem
+[] - Vizualização => Criar componente para visualizar detalhes
+[] - Visualização = Botão editar
+[] - Editar produto do "localStorage"
+[] - Atualizar o produto na Listagem
